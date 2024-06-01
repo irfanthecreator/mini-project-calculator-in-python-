@@ -1,5 +1,5 @@
 # mini-project-calculator-in-python-
-A basic calculator application made in Python.
+A basic calculator application made using Python.
 
 Features:
 - Addition
